@@ -1,1 +1,1 @@
-# AcneRecognitionThesis
+# Acne Recognition Thesis
